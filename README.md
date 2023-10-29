@@ -1,10 +1,11 @@
 # Hi 👋, I'm Shashank!
+## 🖋️ Summary:
+🚀 Passionate Computer Science Enthusiast | Web & Desktop Developer | Data Science Enthusiast 🚀
 ## 📘 Education:
 M.Sc.  Computer Science, St Joseph's University, Bengaluru
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank200801) 
-## 🖋️ Summary:
-🚀 Passionate Computer Science Enthusiast | Web & Desktop Developer | Data Science Enthusiast 🚀
+
 
 # 💻 Tech Stack:
 | **Web Development**                                         | **Tools**                                                   | **Databases**                                               | **Data Analysis**                                            | **Others**                                                  |
