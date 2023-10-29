@@ -1,6 +1,8 @@
 # Hi 👋, I'm Shashank!
 ## 🖋️ Summary:
-🚀 Passionate Computer Science Enthusiast | Web & Desktop Developer | Data Science Enthusiast 🚀
+#### 🚀 Passionate Computer Science Enthusiast | Web & Desktop Developer | Data Science Enthusiast 🚀
+#### I am always open to collaboration and welcome feedback on my projects.
+#### Let's innovate, collaborate, and create amazing things together! 
 ## 📘 Education:
 M.Sc.  Computer Science, St Joseph's University, Bengaluru
 ## 🌐 Socials:
